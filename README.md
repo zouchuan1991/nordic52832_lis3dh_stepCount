@@ -1,0 +1,1 @@
+# nordic52832_lis3dh_stepCount
